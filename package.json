@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "displayName": "com.homemade.utils.asset-overwriter",
   "description": "Extension to allow overwriting when importing assets.",
+  "unity": "2021.1",
   "author": {
     "name": "HomeMadeST",
     "email": "homemadegame102@gmail.com"
